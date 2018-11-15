@@ -1,1 +1,46 @@
+Project Topic:
+  Adversarial Attacks - Image Captcha Application
+  
+Group Members:
+  Adhithya S            3
+  Janaki Keerthi        26
+  Jayasoorya Jithendra  28
+  Jessal V A            29
+  
+Project Guide:
+  Prof. Rajasree R
+  
+Project Co-ordinator:
+  Prof. Vipin Vasu.s
+  
+August 6, 2018:
+  Project topic was finalised and project abstract was completed succesfully and submitted.
+  
+August 12, 2018:
+  Rough idea about the project was discussed, problem was defined, basic implementation details was 
+  identified (Fast Gradient Sign Method). A level 0 presentation was prepared on these things.
+  
+August 13, 2018:
+  Level 0 presentation conducted and succesfully presented.
+  
+September 14, 2018:
+  Downloaded the dataset - MNIST (70,000 images) - 28x28 pixel images split into training and test set.
+  
+September 30, 2018:
+  Papers related to the project topic was downloaded and started reading literatures.
+  "Explaining and Harnessing Adversarial Examples",
+  "Ensemble adversarial training: attacks and defenses"
+  
+October 5, 2018:
+    Level 1 presentation was prepared based on literature review and presented successfully.
+    
+November 2, 2018:
+  Level-2 presentation is prepared - The Requirement Specification Document. It lists the basic design of the
+  model, the constraints and algorithm.
+
+
+
+
+
+
 Reading papers on Adversarial Attacks.
