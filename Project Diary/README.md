@@ -2,11 +2,11 @@
  
  
  ## August 2018
- [August Diary] (August) August Diary 
+ [August Diary] (August)
  [Google Doc Version](https://github.com/user/repo/blob/branch/other_file.md)
  
  ## September 2018
- [September Diary](September)September Diary
+ [September Diary](September)
  [Google Doc Version](https://github.com/user/repo/blob/branch/other_file.md)
  
  ## October 2018
