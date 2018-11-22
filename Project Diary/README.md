@@ -13,3 +13,15 @@ To perform adversarial attacks on Image captchas to prevent bots from automating
 
 ```
 
+## Project Guide:
+```
+
+    Prof. Rajasree R
+
+```
+## Project Co-ordinator:
+```
+  
+    Prof. Vipin Vasu A.V.
+
+```
