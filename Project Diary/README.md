@@ -7,7 +7,7 @@
  
  ## September 2018
  [September Diary](September) <br/>
- [Google Doc](https://github.com/user/repo/blob/branch/other_file.md)
+ [Google Doc](https://docs.google.com/document/d/1uwlA1XBG-7d4zR7V0YNRapQCY-8LhZa6LnOo04tYwD0/edit?usp=sharing)
  
  ## October 2018
  [October Diary](October) <br/>
