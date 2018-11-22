@@ -11,7 +11,7 @@
  
  ## October 2018
  [October Diary](October) <br/>
- [Google Doc](https://github.com/user/repo/blob/branch/other_file.md)
+ [Google Doc](https://docs.google.com/document/d/1m6spO5fYu5hlowNRglP-JaOYgSmc8VlVya1rmwW0h2A/edit?usp=sharing)
  
  ## November 2018 
  [November Diary](November) <br/>
