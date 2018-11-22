@@ -15,4 +15,4 @@
  
  ## November 2018 
  [November Diary](November) <br/>
- [Google Doc](https://github.com/user/repo/blob/branch/other_file.md)
+ [Google Doc](https://docs.google.com/document/d/1RsmMDfKEr9Bh8CBbwXtuVIL4ydOqa_o5oCTShojU2RM/edit?usp=sharing)
