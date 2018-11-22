@@ -8,7 +8,14 @@ November 9, 2018:
         Two UML diagrams were prepared - one being an activity diagram and the other being the model diagram.
 
 November 16, 2018:
-        Level 2 presentation was presented. In addition to the functional and process requirements, we added the physical environment (model training in the cloud)  and the details of$
+        Level 2 presentation was presented. 
+        In addition to the functional and process requirements, we added the physical environment (model training in the cloud)  and the details of deployment of our project. 
+        The user will be given a web application to interact with, which will provide the user with a random captcha generated real time. 
+        The user will be given a text box to give the response to the displayed captcha. 
+        Quality constraints were added as per the instructions from our guide. 
+        Currently working on the detailed design of our project.
+	
+
 
 
 
