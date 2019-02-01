@@ -1,4 +1,4 @@
 February 1 : 
 
 We are planning to finish the Captcha Generator, basically a Python program, by the end of this week. We are also working on modifying the dataset.
-We are currently reading a paper, “CAPTCHA Recognition with Active Deep Learning” - Fabian Stark, Caner Hazrbas, Rudolph Triebel and Daniel Cremers, for reference relating to building the CNN model.
+We are currently reading a paper, “CAPTCHA recognition with Active Deep Learning” - Fabian Stark, Caner Hazrbas, Rudolph Triebel and Daniel Cremers, for reference relating to building the CNN model.
