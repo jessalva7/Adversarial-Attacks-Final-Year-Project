@@ -2,3 +2,10 @@ February 1 :
 
 We plan to finish the Captcha Generator, basically a Python program, by the end of this week. We are also working on modifying the dataset.
 We are currently reading a paper, “CAPTCHA Recognition with Active Deep Learning” - Fabian Stark, Caner Hazrbas, Rudolph Triebel and Daniel Cremers, for reference relating to building the CNN model.
+
+February 8 :
+
+We found a script that can be used to generate captchas. 
+It can be used to generate captchas containing lowercase and uppercase alphabets and digits.
+It also allows us to generate captchas of different length. For our project, we have decided to restrict the captcha length to 6 lowercase characters. We have generated 1,80,000 captchas.
+Link to Jackson Yang's Image Captcha Solving using Tensorflow : https://github.com/JackonYang/captcha-tensorflow
