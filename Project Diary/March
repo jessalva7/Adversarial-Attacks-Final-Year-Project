@@ -1,0 +1,5 @@
+March 8 :
+
+We referred another github link : https://github.com/adrianodennanni/pre-trained-nn-benchmark
+The first model we used gave poor accuracy. So we tried a pretrained model on our dataset.
+It gave above 96% accuracy for each character. 
