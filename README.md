@@ -25,7 +25,7 @@ To perform adversarial attacks on Image captchas to prevent bots from automating
     Prof. Vipin Vasu A.V.
 
 ```
-## Tensorflowjs Implementation
+## Tensorflowjs Implementation:
 ```
   
     cd tensorflowCaptcha/local
@@ -33,7 +33,7 @@ To perform adversarial attacks on Image captchas to prevent bots from automating
     node server.js
 
 ```
-## Random Captcha Implementation
+## Random Captcha Implementation:
 
 When client request for a captcha image, the server provides one by generating a random captcha image. For prediction, the image is sent back to the server, and the server reply with the predicted captcha. 
 
@@ -43,12 +43,12 @@ When client request for a captcha image, the server provides one by generating a
 ```
 Navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-## File Captcha Implementation
+## File Captcha Implementation:
 
 When client request for a captcha image, the server provides one by opening an image present in the server. For prediction, the image is sent back to the server, and the server reply with the predicted captcha. 
 
 ```
-  cd RandomCaptchaModel
+  cd FileCaptchaModel
   FLASK_APP=predict_app.py flask run
 ```
 Navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000)
