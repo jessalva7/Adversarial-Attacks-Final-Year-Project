@@ -29,6 +29,7 @@ To perform adversarial attacks on Image captchas to prevent bots from automating
 ```
   
     cd tensorflowCaptcha/local
+    npm install
     node server.js
 
 ```
