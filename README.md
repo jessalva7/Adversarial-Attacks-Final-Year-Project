@@ -33,3 +33,12 @@ To perform adversarial attacks on Image captchas to prevent bots from automating
     node server.js
 
 ```
+## Random Captcha Implementation
+
+When client request for a captcha image, the server provide one by generating a random captcha image. For prediction, the image is sent back to the server, and the server reply with the predicted captcha. 
+
+```
+  cd RandomCaptchaModel
+  FLASK_APP=predict_app.py flask run
+  Navigate to [http://127.0.0.1:5000/static/predict.html]
+```
