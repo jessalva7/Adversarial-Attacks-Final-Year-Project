@@ -40,5 +40,5 @@ When client request for a captcha image, the server provide one by generating a 
 ```
   cd RandomCaptchaModel
   FLASK_APP=predict_app.py flask run
-  Navigate to [http://127.0.0.1:5000/static/predict.html]
+  Navigate to [http://127.0.0.1:5000/static/predict.html](http://127.0.0.1:5000/static/predict.html)
 ```
